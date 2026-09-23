@@ -1,5 +1,5 @@
 naa n# 🔢 Boolean Feature Rule Miner
-
+https://fg2jh4wq-8501.inc1.devtunnels.ms/
 **A working prototype for a college project (EC2201 Unit I — Digital Fundamentals).**
 
 Given a **binary dataset** (features are all 0/1 — symptoms, shopping flags,
